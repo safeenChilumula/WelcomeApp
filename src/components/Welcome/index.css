@@ -1,0 +1,17 @@
+.container {
+  background-color: #1e293b;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  height: 100vh;
+}
+.heading {
+  color: #f0bb03;
+  font-size: 36px;
+}
+.para {
+  color: #ffffff;
+  font-size: 20px;
+}
